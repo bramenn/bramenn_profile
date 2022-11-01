@@ -13,7 +13,7 @@ Skills:
 
 Contact me:
 - Telegram: [HelStan](https://t.me/HelStan)
-- LinkedIn: [Alejandro Herrera](linkedin.com/in/brayan-alejandro-herrera-amariles-73a516126/)
+- LinkedIn: [Alejandro Herrera](https://linkedin.com/in/brayan-alejandro-herrera-amariles-73a516126/)
 - Matrix [m]: [bramen](https://matrix.to/#/@bramen:bramen.com.co)
 - Email: bramendev@gmail.com
 
